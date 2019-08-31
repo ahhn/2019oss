@@ -1,5 +1,5 @@
-# Omeka로 디지털 아카이브 만들기
-2019년 1학기 한성대학교 문헌정보과 "지역연계 프로젝트" 강의자료
+# 전자기록과 활용소프트웨어 (작성중)
+2019년 2학기 한국외국어대학교 정보기록학과 강의자료
 
 [강의자료1. Omeka 동향과 활용 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture01_Introduction_to_Omeka.pdf)
 
