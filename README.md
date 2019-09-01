@@ -19,9 +19,9 @@ https://ahhn.github.io/2019oss/
 
 #### 과제 및 평가
 ##### 과제 : 디지털 아카이브 만들기
-1.디지털 아카이브 사례조사 발표 (20분) : 발표문 제출
-2.아카이빙 계획 발표 (20분) : 아카이빙 계획서 제출
-3.아카이빙 결과 발표 (20분) : 결과보고서 제출
+1. 디지털 아카이브 사례조사 발표 (20분) : 발표문 제출
+2. 아카이빙 계획 발표 (20분) : 아카이빙 계획서 제출
+3. 아카이빙 결과 발표 (20분) : 결과보고서 제출
 
 ##### 평가요소
 발표내용 및 자료제출(90%), 출석(10%)
@@ -91,9 +91,7 @@ Omeka 실습 : 플러그인 III - Item Order
 
 ## Week 9. 온라인 카탈로그 소프트웨어 - AtoM 1
 1. ICA 국제기술표준 (ISAD(G), ISAAR-CPF, ISDF, ISDIAH) 
-
 2. AtoM 개요
-
 3. AtoM 실습 : ISAD(G)
 
 ## Week 10. 온라인 카탈로그 소프트웨어 - AtoM 2
@@ -101,27 +99,21 @@ AtoM 실습 : ISAAR-CPF, ISDIAH
 
 ## Week 11. 장기보존 소프트웨어 - Archivematica, BagIt
 1. Archivematiac 개요
-
 2. 장기보존 패키지 개요 (NEO, NEOx, VEO2, VEO3, BagIt, XIP) 
-
 3. 실습 : Base64 인코딩
-
 4. 실습 : 장기보존패키지(AIP) 만들기
 
 ## Week 12. 데이터세트 보존 소프트웨어 - SIARD
 1. E-Ark 프로젝트 개요 
-
 2. 실습 : SIARD viewer
 
 ## Week 13. 메타데이터 추출 & 무결성 검증 소프트웨어 - NARA File Analyzer & VeraPDF
 1. NARA File Analyzer and Metadata Harvester 실습 : 메타데이터 추출, SHA-256 
-
 2. VeraPDF 실습 : PDF 무결성 검증
 
 ## Week 14. 웹 아카이빙 소프트웨어 - Zotero, PageCrawler
-Zotero 실습 : 웹 아카이빙 컬렉션 만들기, RDF 추출하기 
-
-PageCrawler : 웹페이지 크롤링, WARC 포맷 만들기
+1. Zotero : 웹 아카이빙 컬렉션 만들기, RDF 추출하기 
+2. PageCrawler : 웹페이지 크롤링, WARC 포맷 만들기
 
 ## Week 15. 아카이빙 결과 발표 I
 디지털 아카이브 구축 결과 발표 I
@@ -176,6 +168,7 @@ PageCrawler : 웹페이지 크롤링, WARC 포맷 만들기
 
 
 
+# 참고자료
 
 [강의자료1. Omeka 동향과 활용 (다운로드)](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture01_Introduction_to_Omeka.pdf)
 
