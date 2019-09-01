@@ -11,11 +11,8 @@ https://ahhn.github.io/2019oss/
 
 #### 참고문헌
 - 안대진, 임진희. (2016). 디지털 아카이브 시스템 구축을 위한 공개 소프트웨어 활용방안 연구. 정보관리학회지, 33(3), 345-370.
-
 - 안대진, 임진희. (2017). 기록시스템의 오픈소스화 전략 연구. 기록학연구, 52(3), 119-170.
-
 - 안대진, 임진희. (2017). 제4차 산업혁명 기술의 기록관리 적용 방안. 기록학연구, (54), 211-248.
-
 - 김인택, 안대진, 이해영. (2017). 인공지능을 활용한 지능형 기록관리 방안. 한국기록관리학회지, 17(4), 225-250.
 
 
@@ -50,7 +47,7 @@ https://ahhn.github.io/2019oss/
 
 - Ubuntu Server 설치
 - SSH Client(Putty) 설치
-- 리눅스 명령어 실습 
+- 리눅스 명령어 실습
 - 어플리케이션 설치(WordPress, Omeka) 4. GitHub 리포지터리 만들기 실습
 
 ## Week 3. 온라인 퍼블리싱 소프트웨어 - Omeka 1
@@ -99,7 +96,7 @@ Omeka 실습 : 플러그인 III - Item Order
 - Neatline
 - Posters
 - Reports
-- Scripto 
+- Scripto
 - AvantRelationships - Ngram
 - Text Analysis
 
