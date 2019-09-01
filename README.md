@@ -3,7 +3,8 @@
 
 #### 강의소개
 이 강의는 전자기록을 다룰 때 필요한 소프트웨어의 개념을 익히고 실습을 통해 심화 학습하도록 구성됩니다. 
-전체 강의 중 6강은 온라인 퍼블리싱 소프트웨어인 오메카(Omeka)에 배정되어 있습니다. 수강생들은 한 학기 동안 특정 주제를 아카이빙한 후 자신의 아카이브 사이트로 만들어 봅니다.
+전체 강의 중 6강은 온라인 퍼블리싱 소프트웨어인 오메카(Omeka)에 배정되어 있습니다. 
+수강생들은 한 학기 동안 특정 주제를 아카이빙한 후 자신의 아카이브 사이트로 만들어 봅니다.
 그 외에 클라우드 컴퓨팅(AWS), 온라인 카탈로그(AtoM), 장기보존(Archivematica, BagIt), 데이터세트 보존(SIARD), 메타데이터 추출 및 무결성 검증(VeraPDF), 웹 아카이빙(Zotero) 등 대표적인 오픈소스 소프트웨어를 실습해 봅니다.
 
 #### 강의교재
@@ -19,9 +20,7 @@ https://ahhn.github.io/2019oss/
 #### 과제 및 평가
 ##### 과제 : 디지털 아카이브 만들기
 1.디지털 아카이브 사례조사 발표 (20분) : 발표문 제출
-
 2.아카이빙 계획 발표 (20분) : 아카이빙 계획서 제출
-
 3.아카이빙 결과 발표 (20분) : 결과보고서 제출
 
 ##### 평가요소
@@ -30,21 +29,16 @@ https://ahhn.github.io/2019oss/
 
 # 주별 강의계획
 ## Week 1. 전자기록 활용소프트웨어 개론
-1.디지털 보존(Digital Preservation) 개요 (OAIS, TRAC, E-Ark 등)
-
-2.전자기록 활용소프트웨어 소개
-
-3.과제 안내
+1. 디지털 보존(Digital Preservation) 개요 (OAIS, TRAC, E-Ark 등)
+2. 전자기록 활용소프트웨어 소개
+3. 과제 안내
 
 
 
 ## Week 2. 오픈소스 소프트웨어와 클라우드 컴퓨팅
 1. 오픈소스 소프트웨어(OSS) 개요
-
 2. 클라우드 컴퓨팅 개요
-
 3. AWS를 이용한 클라우드 서버 구축
-
 - Ubuntu Server 설치
 - SSH Client(Putty) 설치
 - 리눅스 명령어 실습
@@ -52,13 +46,10 @@ https://ahhn.github.io/2019oss/
 
 ## Week 3. 온라인 퍼블리싱 소프트웨어 - Omeka 1
 1. Omeka 동향과 활용
-
 2. 디지털 아카이브 사례와 아카이빙 주제발표 I
-
 
 ## Week 4. 온라인 퍼블리싱 소프트웨어 - Omeka 2
 1. Omeka 실습 : 아이템, 컬렉션
-
 2. 디지털 아카이브 사례와 아카이빙 주제발표 II
 
 ## Week 5. 온라인 퍼블리싱 소프트웨어 - Omeka 3
@@ -66,7 +57,6 @@ Omeka 실습 : 전시(Exhibition)
 
 ## Week 6. 온라인 퍼블리싱 소프트웨어 - Omeka 4
 Omeka 실습 : 플러그인 I - CSV Import
-
 - Blog Shortcode
 - Bulk Metadata editor - COinS
 - Collection Tree
@@ -77,7 +67,6 @@ Omeka 실습 : 플러그인 I - CSV Import
 
 ## Week 7. 온라인 퍼블리싱 소프트웨어 - Omeka 5
 Omeka 실습 : 플러그인 II - Derivative Images
-
 - Docs Viewer
 - Elasticsearch
 - Element Type
