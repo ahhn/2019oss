@@ -29,15 +29,15 @@ https://ahhn.github.io/2019oss/
 
 # 주별 강의계획
 ## Week 1. 전자기록 활용소프트웨어 개론
-1. 디지털 보존(Digital Preservation) 개요 (OAIS, TRAC, E-Ark 등)
+1. 디지털 보존(Digital Preservation) 개요 (OAIS, TRAC, E-Ark 등) : [발표자료](https://github.com/ahhn/2019oss/raw/master/lecture/lecture01_DP.pdf)
 2. 전자기록 활용소프트웨어 소개
 3. 과제 안내
 
 
 
 ## Week 2. 오픈소스 소프트웨어와 클라우드 컴퓨팅
-1. 오픈소스 소프트웨어(OSS) 개요
-2. 클라우드 컴퓨팅 개요
+[1. 오픈소스 소프트웨어(OSS) 개요](https://github.com/ahhn/oss/raw/master/resources/OSS1.pdf)
+[2. 클라우드 컴퓨팅 개요](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture00_Archives.pdf)
 3. AWS를 이용한 클라우드 서버 구축
 - Ubuntu Server 설치
 - SSH Client(Putty) 설치
@@ -45,7 +45,7 @@ https://ahhn.github.io/2019oss/
 - 어플리케이션 설치(WordPress, Omeka) 4. GitHub 리포지터리 만들기 실습
 
 ## Week 3. 온라인 퍼블리싱 소프트웨어 - Omeka 1
-1. Omeka 동향과 활용
+[1. Omeka 동향과 활용](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture01_Introduction_to_Omeka.pdf)
 2. 디지털 아카이브 사례와 아카이빙 주제발표 I
 
 ## Week 4. 온라인 퍼블리싱 소프트웨어 - Omeka 2
