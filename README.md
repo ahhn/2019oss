@@ -63,6 +63,7 @@ https://ahhn.github.io/2019oss/
 - SIARD 소개
 - VeraPDF 소개
 - Zotero 소개
+
 -----
 
 ## Week 2. 오픈소스 소프트웨어와 클라우드 컴퓨팅
