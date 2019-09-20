@@ -49,20 +49,20 @@ https://ahhn.github.io/2019oss/
 
 -----
 주별과제 : 
-1) COPTR, POWRR, E-Ark 프로젝트 조사
+- 1) COPTR, POWRR, E-Ark 프로젝트 조사
   - 프로젝트 개요(참여단체, 기간, 펀딩, 목표)
   - 주요과제 및 산출물
   - 시사점
-2) Omeka 프로젝트 소개
+- 2) Omeka 프로젝트 소개
   - 프로젝트 개요(언제, 누가, 왜 만들었는지)
   - 주요 컬렉션
   - 장단점
-3) Omeka 플러그인 소개
-4) Archivematica 소개
-5) BagIt 소개
-6) SIARD 소개
-7) VeraPDF 소개
-8) Zotero 소개
+- 3) Omeka 플러그인 소개
+- 4) Archivematica 소개
+- 5) BagIt 소개
+- 6) SIARD 소개
+- 7) VeraPDF 소개
+- 8) Zotero 소개
 -----
 
 ## Week 2. 오픈소스 소프트웨어와 클라우드 컴퓨팅
