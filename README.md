@@ -33,11 +33,41 @@ https://ahhn.github.io/2019oss/
 2. 전자기록 활용소프트웨어 소개
 3. 과제 안내
 
+- 학기과제 : 주제 아카이브 만들기
+
+-- 아카이빙 계획서 작성방법
+--- 개요 : 아카이빙할 주제에 대한 간단한 에세이(배경, 의미 등)
+--- 키워드 : 해당 주제와 관련된 키워드 나열(문헌, 연구사례 등을 참고)
+--- 범위와 목적 : 해당 주제의 시간/공간/내용적 범위, 아카이빙을 통해 이루고자 하는 목적
+--- 컬렉션 구성(영역별 수집대상) : 수집할 컬렉션 영역을 3~5개 정하고 컬렉션별로 대표적 기록을 나열
+
+-- 아카이빙 계획서 샘플
+--- [대학그룹사운드](https://github.com/ahhn/2018Omeka/raw/master/lecture/plan_sample01_WH.pdf)
+--- [슈퍼맨](https://github.com/ahhn/2018Omeka/raw/master/lecture/plan_sample02_Superman.pdf)
+--- [봉봉](https://github.com/ahhn/2018Omeka/raw/master/lecture/plan_sample03_vongvong.pdf)
+--- [일상의 앰비언스](https://github.com/ahhn/2018Omeka/raw/master/lecture/plan_sample04_Ambience.pdf)
+
+
+- 주별과제 : 
+-- 1) COPTR, POWRR, E-Ark 프로젝트 조사
+--- 프로젝트 개요(참여단체, 기간, 펀딩, 목표)
+--- 주요과제 및 산출물
+--- 시사점
+-- 2) Omeka 프로젝트 소개
+--- 프로젝트 개요(언제, 누가, 왜 만들었는지)
+--- 주요 컬렉션
+--- 장단점
+-- 3) Omeka 플러그인 소개
+-- 4) Archivematica 소개
+-- 5) BagIt 소개
+-- 6) SIARD 소개
+-- 7) VeraPDF 소개
+-- 8) Zotero 소개
 
 
 ## Week 2. 오픈소스 소프트웨어와 클라우드 컴퓨팅
-1. 오픈소스 소프트웨어(OSS) 개요 : [다운로드](https://github.com/ahhn/oss/raw/master/resources/OSS1.pdf)
-2. 클라우드 컴퓨팅 개요 : [다운로드](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture00_Archives.pdf)
+1. 오픈소스 소프트웨어(OSS) 개요 : [다운로드1](https://github.com/ahhn/oss/raw/master/resources/OSS1.pdf)
+2. 클라우드 컴퓨팅 개요 : 
 3. AWS를 이용한 클라우드 서버 구축
 - Ubuntu Server 설치
 - SSH Client(Putty) 설치
@@ -46,7 +76,8 @@ https://ahhn.github.io/2019oss/
 
 ## Week 3. 온라인 퍼블리싱 소프트웨어 - Omeka 1
 1. Omeka 동향과 활용 : [다운로드](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture01_Introduction_to_Omeka.pdf)
-2. 디지털 아카이브 사례와 아카이빙 주제발표 I
+2. 아카이브 개요 : [다운로드](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture00_Archives.pdf)
+3. 디지털 아카이브 사례와 아카이빙 주제발표 I
 
 ## Week 4. 온라인 퍼블리싱 소프트웨어 - Omeka 2
 1. Omeka 실습 : 아이템, 컬렉션
