@@ -75,6 +75,9 @@ https://ahhn.github.io/2019oss/
 - 리눅스 명령어 실습
 - 어플리케이션 설치(WordPress, Omeka) 
 4. GitHub 리포지터리 만들기 실습
+5. 과제발표
+- 아카이브에 유용한 소프트웨어 소개하기 (COPTR 레지스트리에서 검색)
+
 
 ## Week 3. 온라인 퍼블리싱 소프트웨어 - Omeka 1
 1. Omeka 동향과 활용 : [다운로드](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture01_Introduction_to_Omeka.pdf)
