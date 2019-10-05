@@ -115,6 +115,9 @@ https://ahhn.github.io/2019oss/
   - [AWS, Omeka, Filezilla 동영상 강좌](https://www.youtube.com/watch?v=eaw7rN_O6LM&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf)
 2. GitHub 리포지터리 만들기 실습
 3. 디지털 아카이브 사례와 아카이빙 주제발표 I
+- 최현균 : 광화문 아카이브
+- 이충호 : 대진대학교 사학과 사진아카이브
+- 박해경 : 내 
 
 ## Week 4. 온라인 퍼블리싱 소프트웨어 - Omeka 1
 1. Omeka 동향과 활용 : [다운로드](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture01_Introduction_to_Omeka.pdf)
