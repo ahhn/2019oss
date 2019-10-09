@@ -81,12 +81,14 @@ https://ahhn.github.io/2019oss/
   - 첫 화면 스크린샷
   - 설치 과정 설명
   - 아카이브 업무 활용방법
-- 박해경 : [Metadata Interrogator](https://github.com/ahhn/2019oss/raw/master/lecture/park_coptr.pdf)
-- 이충호 : [다운로드](https://github.com/ahhn/2019oss/raw/master/lecture/lee_coptr.pdf)
+- 박해경 : [보고서](https://github.com/ahhn/2019oss/raw/master/lecture/park_coptr.pdf)
+  - ImageMagick
+  - Metadata Interrogator v1.07
+- 이충호 : [보고서](https://github.com/ahhn/2019oss/raw/master/lecture/lee_coptr.pdf)
   - Exif to DC XML Normalizer
   - ExifTool
   - KOST
-- 최현균 : [다운로드](https://github.com/ahhn/2019oss/raw/master/lecture/choi_coptr.pdf)
+- 최현균 : [보고서](https://github.com/ahhn/2019oss/raw/master/lecture/choi_coptr.pdf)
   - Disk Image Chef
   - Rescarta
 
