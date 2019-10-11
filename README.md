@@ -1,5 +1,3 @@
-sudo apt-get install php-mysql php-xml php-xsl php-json php-zip php-cli php-gd php-intl php-curl php-opcache php-readline php-mbstring php-mcrypt php-memcache php-dev
-
 # 전자기록과 활용소프트웨어
 2019년 2학기 한국외국어대학교 정보기록학과 강의자료
 
