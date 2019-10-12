@@ -119,7 +119,7 @@ https://ahhn.github.io/2019oss/
 3. 디지털 아카이브 사례와 아카이빙 주제발표 I
 - 최현균 : [광화문 아카이브](https://github.com/ahhn/2019oss/raw/master/lecture/choi_plan.pdf)
 - 이충호 : [대진대학교 사학과 사진아카이브](https://github.com/ahhn/2019oss/raw/master/lecture/lee_plan.pdf)
-- 박해경 : [내 방 만들기](https://github.com/ahhn/2019oss/raw/master/lecture/park_plan.pdf)
+- 박해경 : [출근길 ](https://github.com/ahhn/2019oss/raw/master/lecture/park_plan.pdf)
 
 ## Week 4. 온라인 퍼블리싱 소프트웨어 - Omeka 1
 1. Omeka 동향과 활용 : [다운로드](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture01_Introduction_to_Omeka.pdf)
