@@ -130,8 +130,12 @@ https://ahhn.github.io/2019oss/
 1. Omeka 실습 : 아이템, 컬렉션, 전시
 2. 디지털 아카이브 사례와 아카이빙 주제발표 III
 박해경 - OO Archive
+- 아카이브 개요(누가, 언제, 왜 만들었나)
+- 주요 컬렉션 (대표 컬렉션 목록과 간략소개)
+- 특징 (기능, 컬렉션 구성, 서비스 등 여러 측면의 장단점)
 이충호 - OO Archive
 최현균 - OO Archive
+
 참고 사이트 : 
 [Omeka Showcase](https://omeka.org/classic/showcase/)
 [Omeka Directory](https://omeka.org/classic/directory/)
