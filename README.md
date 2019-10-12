@@ -132,16 +132,16 @@ https://ahhn.github.io/2019oss/
 2. 아카이브 개요 : [다운로드](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture00_Archives.pdf)
 3. Omeka 실습 : 플러그인, 테마, 아이템, 컬렉션, 전시
 4. 디지털 아카이브 사례와 아카이빙 주제발표 III
-박해경 - OO Archive
-- 아카이브 개요(누가, 언제, 왜 만들었나)
-- 주요 컬렉션 (대표 컬렉션 목록과 간략소개)
-- 특징 (기능, 컬렉션 구성, 서비스 등 여러 측면의 장단점)
-이충호 - OO Archive
-최현균 - OO Archive
+- 박해경 - OO Archive
+  - 아카이브 개요(누가, 언제, 왜 만들었나)
+  - 주요 컬렉션 (대표 컬렉션 목록과 간략소개)
+  - 특징 (기능, 컬렉션 구성, 서비스 등 여러 측면의 장단점)
+- 이충호 - OO Archive
+- 최현균 - OO Archive
 
 참고 사이트 : 
-[Omeka Showcase](https://omeka.org/classic/showcase/)
-[Omeka Directory](https://omeka.org/classic/directory/)
+- Omeka Showcase : [https://omeka.org/classic/showcase/](https://omeka.org/classic/showcase/)
+- Omeka Directory : [https://omeka.org/classic/directory/](https://omeka.org/classic/directory/)
 
 ## Week 6. 온라인 퍼블리싱 소프트웨어 - Omeka 2
 Omeka 실습 : 플러그인 I - CSV Import
