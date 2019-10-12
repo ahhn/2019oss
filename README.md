@@ -113,7 +113,7 @@ https://ahhn.github.io/2019oss/
 - 리눅스 명령어 실습
 - 어플리케이션 설치(WordPress, Omeka) 
   - [Omeka v2.6.1 설치 매뉴얼](https://osasf.net/uploads/FileUpload/5c/770f29d1b1d235ce9b9d938519dfef.pdf)
-  - [AWS, Omeka, Filezilla 설치 매뉴얼](https://github.com/ahhn/2019oss/raw/master/lecture/AWS_v2.0.pdf)
+  - [AWS, Omeka, Filezilla 설치 매뉴얼](https://github.com/ahhn/2019oss/raw/master/lecture/02_AWS_v2.0.pdf)
   - [AWS, Omeka, Filezilla 동영상 강좌](https://www.youtube.com/watch?v=eaw7rN_O6LM&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf)
 2. GitHub 리포지터리 만들기 실습
 3. 디지털 아카이브 사례와 아카이빙 주제발표 I
