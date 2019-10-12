@@ -109,9 +109,7 @@ https://ahhn.github.io/2019oss/
 ## Week 3. 오픈소스 소프트웨어와 클라우드 컴퓨팅 II
 1. AWS를 이용한 클라우드 서버 구축
 - Ubuntu Server 설치
-- SSH Client(Putty) 설치
-- 리눅스 명령어 실습
-- 어플리케이션 설치(WordPress, Omeka) 
+- AMI(Amazon Machine Image)로 어플리케이션 설치(WordPress, Omeka 등) 
   - [Omeka v2.6.1 설치 매뉴얼](https://osasf.net/uploads/FileUpload/5c/770f29d1b1d235ce9b9d938519dfef.pdf)
   - [AWS, Omeka, Filezilla 설치 매뉴얼](https://github.com/ahhn/2019oss/raw/master/lecture/02_AWS_v2.0.pdf)
   - [AWS, Omeka, Filezilla 동영상 강좌](https://www.youtube.com/watch?v=eaw7rN_O6LM&list=PLya-3fVEf50Zj0bfFbkRpxuwO6J9mh4Pf)
@@ -121,14 +119,19 @@ https://ahhn.github.io/2019oss/
 - 이충호 : [대진대학교 사학과 사진아카이브](https://github.com/ahhn/2019oss/raw/master/lecture/lee_plan.pdf)
 - 박해경 : [출근길 아카이브](https://github.com/ahhn/2019oss/raw/master/lecture/park_plan.pdf)
 
-## Week 4. 온라인 퍼블리싱 소프트웨어 - Omeka 1
+## Week 4. 오픈소스 소프트웨어와 클라우드 컴퓨팅 III
+1. AWS를 이용한 클라우드 서버 구축
+- SSH Client(Putty) 설치
+- 리눅스 명령어 실습
+- FTP 클라이언트(Filezilla) 설치
+- 어플리케이션 설치(Omeka) 
+2. 디지털 아카이브 사례와 아카이빙 주제발표 II
+
+## Week 5. 온라인 퍼블리싱 소프트웨어 - Omeka 1
 1. Omeka 동향과 활용 : [다운로드](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture01_Introduction_to_Omeka.pdf)
 2. 아카이브 개요 : [다운로드](https://github.com/ahhn/2018Omeka2/raw/master/lecture/Lecture00_Archives.pdf)
-3. 디지털 아카이브 사례와 아카이빙 주제발표 II
-
-## Week 5. 온라인 퍼블리싱 소프트웨어 - Omeka 2
-1. Omeka 실습 : 아이템, 컬렉션, 전시
-2. 디지털 아카이브 사례와 아카이빙 주제발표 III
+3. Omeka 실습 : 플러그인, 테마, 아이템, 컬렉션, 전시
+4. 디지털 아카이브 사례와 아카이빙 주제발표 III
 박해경 - OO Archive
 - 아카이브 개요(누가, 언제, 왜 만들었나)
 - 주요 컬렉션 (대표 컬렉션 목록과 간략소개)
@@ -140,7 +143,7 @@ https://ahhn.github.io/2019oss/
 [Omeka Showcase](https://omeka.org/classic/showcase/)
 [Omeka Directory](https://omeka.org/classic/directory/)
 
-## Week 6. 온라인 퍼블리싱 소프트웨어 - Omeka 3
+## Week 6. 온라인 퍼블리싱 소프트웨어 - Omeka 2
 Omeka 실습 : 플러그인 I - CSV Import
 - Blog Shortcode
 - Bulk Metadata editor - COinS
@@ -150,7 +153,7 @@ Omeka 실습 : 플러그인 I - CSV Import
 - Contributor Contact - Corrections
 - CSV Export Format
 
-## Week 7. 온라인 퍼블리싱 소프트웨어 - Omeka 4
+## Week 7. 온라인 퍼블리싱 소프트웨어 - Omeka 3
 Omeka 실습 : 플러그인 II - Derivative Images
 - Docs Viewer
 - Elasticsearch
@@ -163,7 +166,7 @@ Omeka 실습 : 플러그인 II - Derivative Images
 - History Log
 - HTML5 Media
 
-## Week 8. 온라인 퍼블리싱 소프트웨어 - Omeka 5
+## Week 8. 온라인 퍼블리싱 소프트웨어 - Omeka 4
 Omeka 실습 : 플러그인 III 
 - Item Order
 - Item Relations
