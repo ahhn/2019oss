@@ -129,6 +129,12 @@ https://ahhn.github.io/2019oss/
 ## Week 5. 온라인 퍼블리싱 소프트웨어 - Omeka 2
 1. Omeka 실습 : 아이템, 컬렉션, 전시
 2. 디지털 아카이브 사례와 아카이빙 주제발표 III
+박해경 - OO Archive
+이충호 - OO Archive
+최현균 - OO Archive
+참고 사이트 : 
+[Omeka Showcase](https://omeka.org/classic/showcase/)
+[Omeka Directory](https://omeka.org/classic/directory/)
 
 ## Week 6. 온라인 퍼블리싱 소프트웨어 - Omeka 3
 Omeka 실습 : 플러그인 I - CSV Import
