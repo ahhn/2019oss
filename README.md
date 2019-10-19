@@ -133,12 +133,9 @@ https://ahhn.github.io/2019oss/
 3. Omeka 실습 : 플러그인, 테마, 아이템, 컬렉션, 전시
 4. 디지털 아카이브 사례와 아카이빙 주제발표 III
 
-- 박해경 : OO Archive
-  - 아카이브 개요(누가, 언제, 왜 만들었나)
-  - 주요 컬렉션 (대표 컬렉션 목록과 간략소개)
-  - 특징 (기능, 컬렉션 구성, 서비스 등 여러 측면의 장단점)
-- 이충호 : OO Archive
-- 최현균 : OO Archive
+- 박해경 : [Living Late Antiquity](https://github.com/ahhn/2019oss/raw/master/lecture/park_case.pdf)
+- 이충호 : [CornishMemory.com](https://github.com/ahhn/2019oss/raw/master/lecture/lee_case_cornishmemory.pdf)
+- 최현균 : [2015 Boltimore Uprising](https://github.com/ahhn/2019oss/raw/master/lecture/choi_case_2015boltimore-uprising.pdf)
 
 참고 사이트 : 
 - Omeka Showcase : [https://omeka.org/classic/showcase/](https://omeka.org/classic/showcase/)
