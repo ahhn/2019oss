@@ -142,22 +142,32 @@ https://ahhn.github.io/2019oss/
 - Omeka Directory : [https://omeka.org/classic/directory/](https://omeka.org/classic/directory/)
 
 ## Week 6. 온라인 퍼블리싱 소프트웨어 - Omeka 2
-Omeka 실습 : 플러그인 I - CSV Import
-- Blog Shortcode
-- Bulk Metadata editor - COinS
-- Collection Tree
-- Commenting
-- Connected Carousel - Contribution
+Omeka 실습 : 플러그인 I 
+- CSV Import
+- Simple Vocab : 전거통제
+- Item Relations : 관계설정
+- Record Relation : 관계설정
+- Avant Relation : 관계설정
+- Avant Common : 관계설정
+- Facets : 아이템 브라우징 결과 패싯 정렬
+- Bulk Metadata editor 
+- COinS
+- Collection Tree : 컬렉션 계층구조 보여주기
+- Commenting : 댓글
 - Contributor Contact - Corrections
 - CSV Export Format
+- Default Dublin Core : 메타데이터 설정
+- Default Metadata : 메타데이터 설정
+- Default Search Options : 기본검색 옵션 설정
+- Default Sort : 기본 검색결과 정렬 옵션 설정
+- ItemType : 메타데이터 설정
 
 ## Week 7. 온라인 퍼블리싱 소프트웨어 - Omeka 3
-Omeka 실습 : 플러그인 II - Derivative Images
+Omeka 실습 : 플러그인 II 
+- Derivative Images
 - Docs Viewer
-- Elasticsearch
-- Element Type
-- Embed Codes
-- Exhibit Image Annotation - Geolocation
+- Exhibit Image Annotation 
+- Geolocation
 - Guest User
 - Heist
 - Hide Elements
@@ -172,8 +182,8 @@ Omeka 실습 : 플러그인 III
 - Posters
 - Reports
 - Scripto
-- AvantRelationships - Ngram
-- Text Analysis
+- Ngram : 말뭉치 생성
+- Text Analysis : 텍스트 분석
 
 ## Week 9. 온라인 카탈로그 소프트웨어 - AtoM 1
 1. ICA 국제기술표준 (ISAD(G), ISAAR-CPF, ISDF, ISDIAH) 
