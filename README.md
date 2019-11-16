@@ -144,26 +144,26 @@ https://ahhn.github.io/2019oss/
 ## Week 6. 온라인 퍼블리싱 소프트웨어 - Omeka 2
 Omeka 실습 : 플러그인 I 
 - CSV Import
-- Simple Vocab : 전거통제
-- Item Relations : 관계설정
-- Record Relation : 관계설정
-- Avant Relation : 관계설정
-- Avant Common : 관계설정
-- Facets : 아이템 브라우징 결과 패싯 정렬
 - Bulk Metadata editor 
 - COinS
 - Collection Tree : 컬렉션 계층구조 보여주기
 - Commenting : 댓글
 - Contributor Contact - Corrections
 - CSV Export Format
-- Default Dublin Core : 메타데이터 설정
-- Default Metadata : 메타데이터 설정
-- Default Search Options : 기본검색 옵션 설정
-- Default Sort : 기본 검색결과 정렬 옵션 설정
 - ItemType : 메타데이터 설정
 
 ## Week 7. 온라인 퍼블리싱 소프트웨어 - Omeka 3
 Omeka 실습 : 플러그인 II 
+- Simple Vocab : 전거통제
+- Item Relations : 관계설정
+- Record Relation : 관계설정
+- Avant Relation : 관계설정
+- Avant Common : 관계설정
+- Facets : 아이템 브라우징 결과 패싯 정렬
+- Default Dublin Core : 메타데이터 설정
+- Default Metadata : 메타데이터 설정
+- Default Search Options : 기본검색 옵션 설정
+- Default Sort : 기본 검색결과 정렬 옵션 설정
 - Derivative Images
 - Docs Viewer
 - Exhibit Image Annotation 
