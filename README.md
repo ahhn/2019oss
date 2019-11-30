@@ -282,7 +282,7 @@ AtoM 실습 : ISAAR-CPF, ISDIAH
 
 [강의자료8. Omeka CSV목록 - 위치정보추가](https://github.com/ahhn/2019Omeka/raw/master/lecture/catalog2.csv)
 
-
+[강의자료9. AtoM 튜토리얼](https://github.com/ahhn/2019oss/raw/master/lecture/AtoM_tutorial_v1.1.pdf)
 
 ## 4. 참고 사이트
 - 강의 깃허브 : [https://github.com/ahhn/2019Omeka2/](https://github.com/ahhn/2019Omeka2/)
